@@ -3,7 +3,7 @@ export default function Header() {
     <header className="flex items-center justify-between whitespace-nowrap border-b border-solid border-b-[#e7eef3] px-10 py-3 shadow-md">
       <div className="flex items-center gap-4 text-[#0e161b]">
         <img
-          src="/updated_logo.png"
+          src="/ruto-high-resolution-logo-transparent.svg"
           alt="Ruto Logo"
           style={{
             width: "119px",
