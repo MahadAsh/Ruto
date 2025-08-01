@@ -23,12 +23,12 @@ export default function HeroBanner() {
           <button className="bg-primary border-primary border rounded-full shadow-lg hover:shadow-xl inline-flex items-center justify-center py-3 px-7 text-center text-base font-medium text-white hover:bg-[#571d5b94] hover:border-[#571d5b94] disabled:bg-gray-3 disabled:border-gray-3 disabled:text-dark-5 active:bg-[#571d5b94] active:border-[#571d5b94]">
             Get Started
           </button>
-          <button
+          <a
             href="#about"
             className="bg-primary border-primary border rounded-full shadow-lg hover:shadow-xl inline-flex items-center justify-center py-3 px-7 text-center text-base font-medium text-white hover:bg-[#571d5b94] hover:border-[#571d5b94] disabled:bg-gray-3 disabled:border-gray-3 disabled:text-dark-5 active:bg-[#571d5b94] active:border-[#571d5b94]"
           >
             Learn More
-          </button>
+          </a>
         </div>
       </div>
     </div>
